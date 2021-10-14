@@ -4038,11 +4038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
+      "projectUniqueName": "c:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
       "projectName": "SWE_ImageML.Model",
-      "projectPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
+      "projectPath": "c:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
       "packagesPath": "C:\\Users\\krott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\obj\\",
+      "outputPath": "c:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krott\\AppData\\Roaming\\NuGet\\NuGet.Config",

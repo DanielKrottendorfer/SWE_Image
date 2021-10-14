@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {}
+    "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {
+    "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
+        "projectUniqueName": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
         "projectName": "SWE_ImageML.Model",
-        "projectPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
+        "projectPath": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj",
         "packagesPath": "C:\\Users\\krott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\obj\\",
+        "outputPath": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krott\\AppData\\Roaming\\NuGet\\NuGet.Config",

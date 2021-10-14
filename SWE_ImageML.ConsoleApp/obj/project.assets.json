@@ -6067,11 +6067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.ConsoleApp\\SWE_ImageML.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.ConsoleApp\\SWE_ImageML.ConsoleApp.csproj",
       "projectName": "SWE_ImageML.ConsoleApp",
-      "projectPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.ConsoleApp\\SWE_ImageML.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.ConsoleApp\\SWE_ImageML.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\krott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krott\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6088,8 +6088,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {
-              "projectPath": "C:\\Users\\krott\\source\\repos\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj"
+            "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj": {
+              "projectPath": "C:\\Users\\krott\\OneDrive\\SkyDriveDoc\\GitHub\\SWE_Image\\SWE_ImageML.Model\\SWE_ImageML.Model.csproj"
             }
           }
         }

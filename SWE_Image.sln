@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWE_ImageML.Model", "SWE_Im
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWE_ImageML.ConsoleApp", "SWE_ImageML.ConsoleApp\SWE_ImageML.ConsoleApp.csproj", "{3CAC49D0-0AD2-41A0-995A-93DC4DEA9680}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWE_ImageML.WebApp", "SWE_ImageML.WebApp\SWE_ImageML.WebApp.csproj", "{8A5B09C9-FE0B-4F2E-B835-E622FCF730A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CAC49D0-0AD2-41A0-995A-93DC4DEA9680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CAC49D0-0AD2-41A0-995A-93DC4DEA9680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CAC49D0-0AD2-41A0-995A-93DC4DEA9680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5B09C9-FE0B-4F2E-B835-E622FCF730A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5B09C9-FE0B-4F2E-B835-E622FCF730A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5B09C9-FE0B-4F2E-B835-E622FCF730A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5B09C9-FE0B-4F2E-B835-E622FCF730A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

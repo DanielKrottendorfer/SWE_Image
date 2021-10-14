@@ -27,7 +27,7 @@ namespace SWE_ImageML.Model
             MLContext mlContext = new MLContext();
 
             // Load model & create prediction engine
-            string modelPath = @"C:\Users\krott\AppData\Local\Temp\MLVSTools\SWE_ImageML\SWE_ImageML.Model\MLModel.zip";
+            string modelPath = @"C:\Users\krott\OneDrive\SkyDriveDoc\GitHub\SWE_Image\SWE_ImageML.Model\MLModel.zip";
             ITransformer mlModel = mlContext.Model.Load(modelPath, out var modelInputSchema);
             var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
 
